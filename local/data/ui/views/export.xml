@@ -1,0 +1,8 @@
+<dashboard script="export.js">
+  <label>export</label>
+  <row>
+    <html>
+      <button id="export" class="btn btn-primary" disabled="true">Export</button>
+    </html>
+  </row>
+</dashboard>
